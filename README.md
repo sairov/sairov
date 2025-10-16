@@ -47,6 +47,6 @@ I design and develop modern web applications and interactive interfaces, focusin
 
 ---
 
-> “Design is intelligence made visible.” — Alina Wheeler
+> Just a rookie boy doing rookie stuff
 
 Thanks for stopping by — feel free to explore my repos or reach out if you’d like to collaborate on something extraordinary ✨
